@@ -1,0 +1,15 @@
+{
+  "name": "framework-arduino-avr-xmegacore",
+  "version": "1.0.0",
+  "description": "Arduino Wiring-based Framework for Microchip AVR microcontrollers (XMegaCore)",
+  "keywords": [
+    "framework",
+    "arduino",
+    "microchip",
+    "avr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farzin-rb70/arduino-xmega"
+  }
+}
